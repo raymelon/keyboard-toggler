@@ -1,2 +1,2 @@
-# keyboard-toggler
-Simple GUI app that will enable or disable your keyboard. Made with crunchy Vala.
+# Keyboard Toggler
+Simple GUI app to enable or disable your keyboard.
