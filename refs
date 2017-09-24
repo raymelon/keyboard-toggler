@@ -1,0 +1,11 @@
+References:
+
+https://stackoverflow.com/questions/20324074/how-to-add-status-icon-to-wingpanel-in-elementary-os-luna
+
+https://gist.github.com/andreldm/8111e4de3c62708d96aa2645652690fa
+
+https://wiki.ubuntu.com/DesktopExperienceTeam/ApplicationIndicators#Python_version
+
+https://stackoverflow.com/questions/31606264/simple-appindicator-with-vala-application-under-elementary-os
+
+https://github.com/elementary/wingpanel-indicator-sound/blob/master/src/Indicator.vala
